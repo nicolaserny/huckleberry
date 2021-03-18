@@ -61,6 +61,7 @@ main {
 .indented-heading {
   background-color: hsl(45deg, 100%, 50%);
   border-bottom: 8px solid hsl(45deg, 100%, 40%);
+  width: -moz-fit-content;
   width: fit-content;
   padding: 16px 48px;
   margin-left: -48px;
